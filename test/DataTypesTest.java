@@ -1,4 +1,4 @@
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class DataTypesTest {
@@ -10,7 +10,7 @@ public class DataTypesTest {
      */
     public void largeSumTest() {
 
-        // You put an L at the end to indicate it is a long.
+        // You put an L at the nd to indicate it is a long.
         // try removing the L and you'll see that you get an error
         // saying "Integer number too large".
         // Note: You can use _ to help make it easier to
